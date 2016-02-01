@@ -1,0 +1,45 @@
+﻿
+
+//				recipeName = nextRecipe.recipeName;
+//				recipeDesc = nextRecipe.recipeDescription;
+//				showRecipe_1 = true;
+
+				//Gameloop timer (can be randomized)
+
+				//panelLocation1.recipeName.text = nextRecipe.name;
+				//panelLocation1.recipeDescription.text = nextRecipe.recipeDescription;
+
+				//Create a new Panel
+				//RecipePanel recipePanel = new RecipePanel (nextRecipe);
+				//Debug.Log("here");
+				//Vector3 pos = new Vector3(354.8f, -131f, 0);
+
+				//new newPanel = Instantiate(recipePanel, new Vector3(354, -131, 0), Quaternion.identity);
+
+				//var myNewSmoke = Instantiate (poisonSmoke, Vector3(transform.position.x,transform.position.y, transform.position.z) , Quaternion.identity);
+				//newPanel.parent = gameObject.transform;
+
+		
+
+				//GameObject child = (GameObject)GameObject.Instantiate(source);
+
+				//child.name = !string.IsNullOrEmpty(name) ? name : source.name;
+
+				//Transform childTransform = newPanel.transform;
+				//childTransform.parent = parent;
+
+
+//				GameObject myRoadInstance =
+//					Instantiate(Resources.Load("RecipePanel"),
+//						new Vector3(354, -131, 0),
+//						Quaternion.identity) as GameObject;
+//				
+				//Add to bottom of panel list
+				//panelList.Add(recipePanel);
+
+
+				//		foreach (var recipe in recipeList) {
+//			foreach (var item in recipe.finalRecipeList) {
+//				Debug.Log (item);
+//			}
+//		}

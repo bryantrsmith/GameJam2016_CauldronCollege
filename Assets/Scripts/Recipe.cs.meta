@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e352e125362e841b1b5da33facb7e4a7
+timeCreated: 1454207916
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - personSound1: {fileID: 8300000, guid: 97b05663470a84794b1a3bd807176884, type: 3}
+  - personSound2: {fileID: 8300000, guid: 59a2f1c11a52f417aadd95a0cf16b44a, type: 3}
+  - personSound3: {fileID: 8300000, guid: 279c57af061794e1ea6acccac49e0d29, type: 3}
+  - personSound4: {fileID: 8300000, guid: 279c57af061794e1ea6acccac49e0d29, type: 3}
+  - personSound5: {fileID: 8300000, guid: ff964a0ce16624119baac9389e8d3abf, type: 3}
+  - personSound6: {fileID: 8300000, guid: 9f7c66192881a4914a29911d996e32c0, type: 3}
+  - personSound7: {fileID: 8300000, guid: 97b05663470a84794b1a3bd807176884, type: 3}
+  - personSound8: {fileID: 8300000, guid: 96d50146c6f2d4b78887c2ad001d979d, type: 3}
+  - personSound9: {fileID: 8300000, guid: 279c57af061794e1ea6acccac49e0d29, type: 3}
+  - personSound10: {fileID: 8300000, guid: 59a2f1c11a52f417aadd95a0cf16b44a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
